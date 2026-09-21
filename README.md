@@ -70,7 +70,7 @@ The **ServiceNow-Based Car Rental Request Application** automates company car re
 
 ## Author
 
-**PACHIHOLLA RUPA SRI MALLESWARI**
+**PACHIGOLLA RUPA SRI MALLESWARI**
 
 B.Tech Computer Science and Engineering
 
